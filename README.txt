@@ -1,13 +1,6 @@
 CH5019 MATHEMATICAL FOUNDATIONS OF DATA SCIENCE
 *************************************************
-GROUP: 9
-*************************************************
-ANAGHA S BELAVADI            MM18B012
-ANIRUDDHA KISHORE KAWADE     CS18B002
-DIPESH TANDEL                CS18054
-GUNAVARDHAN A.               CH18B035
-SHANIA MITRA                 CH188067
-*****************************************************************************************
+
 Instructions to run the code:
 
 1)Open terminal/cmd and run:
